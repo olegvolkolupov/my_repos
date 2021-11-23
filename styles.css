@@ -1,0 +1,41 @@
+/* комментарии Ctrl + / */
+body {
+    background-color: blue;
+}
+
+p {
+    color: blueviolet;
+    font-size: 24px;
+}
+
+span {
+    font-style: italic;
+    font-weight: 600;
+    color: red;
+}
+
+a {
+    color: green;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.title {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.text {
+    color: hotpink;
+    font-size: 16px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+#google {
+    font-style: normal;
+    font-weight: 200;
+    color: green;
+}
